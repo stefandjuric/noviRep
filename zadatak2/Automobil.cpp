@@ -57,3 +57,4 @@ void Automobil::prikazi()const
     cout<<setw(6)<<setprecision(4)<<getMaksimalniDomet()<<" km";
     cout<<endl;
 }
+//mnogo zanimljivo
