@@ -15,3 +15,4 @@ int Motor::getSnaga()const
 {
     return snaga;
 }
+//izmjena GitHub
